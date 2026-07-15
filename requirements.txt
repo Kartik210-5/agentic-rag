@@ -1,0 +1,9 @@
+huggingface_hub
+transformers
+torch
+langchain
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+chromadb
+sentence-transformers
