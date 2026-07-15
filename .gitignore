@@ -1,3 +1,6 @@
 models/
 .ipynb_checkpoints/
 .DS_Store
+.venv
+.env
+chroma_db_storage
