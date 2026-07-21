@@ -4,4 +4,4 @@ models/
 .venv
 .env
 chroma_db_storage
-test.pdf
+pdfs/
