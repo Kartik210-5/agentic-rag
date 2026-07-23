@@ -1,1 +1,1 @@
-# agentic-rag
+# Agentic RAG system
