@@ -10,3 +10,5 @@ sentence-transformers
 python-dotenv
 pypdf
 gc
+google-genai
+llama-cpp-python
