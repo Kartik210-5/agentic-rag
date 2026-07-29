@@ -14,4 +14,6 @@ output = llm(
     temperature=0.7,
 )
 
-print(output["choices"][0]["text"])
+def prompt(text):
+    
+
